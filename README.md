@@ -109,7 +109,7 @@ Create a table `payments` in the `billing` database with the following columns:
 - Print the contents of the table.
 - Delete the `logs` table.
 
-**Question**:
+**Table description**:
 
 Create a table `logs` in the `user_management` database with the following columns:
 
